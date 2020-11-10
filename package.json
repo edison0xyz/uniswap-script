@@ -1,0 +1,15 @@
+{
+  "name": "uniswap-exp",
+  "version": "1.0.0",
+  "description": "uniswap experiment",
+  "main": "index.js",
+  "author": "Edison Lim",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "ethers": "^5.0.19"
+  }
+}
